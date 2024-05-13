@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Мои навыки:
-<img src=![image](https://github.com/yernur0/yernur0/assets/123850340/1f416d82-847d-4073-b44a-885b28e045c4)
-" width="10%">
+![image](https://github.com/yernur0/yernur0/assets/123850340/1f416d82-847d-4073-b44a-885b28e045c4)
+
 
