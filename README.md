@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ## Мои навыки:
 ![image](https://github.com/yernur0/yernur0/assets/123850340/1f416d82-847d-4073-b44a-885b28e045c4)
-![Pytest_logo svg](https://github.com/yernur0/yernur0/assets/123850340/a0a31ab4-d02f-4422-ad93-57d1e15e0dcc)
+![Pytest_logo svg](https://github.com/yernur0/yernur0/assets/123850340/3b1263ea-c924-420b-a1ef-f1900975628a)
